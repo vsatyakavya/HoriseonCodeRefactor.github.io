@@ -1,17 +1,17 @@
 
-#Application Does:
+# Application Does:
 Horiseon leads you to get a clear idea about Search Engine Optimization, Online Reputation Management, Social Media Marketing
 
-#Technologies used:
+# Technologies used:
 HTML, css
 
-#Features:
+# Features:
 semantic HTML elements, 
 *logical structure independent of styling and positioning,
 *Styling in separate css file,
 *Applying css effects to different class selectors at once,
 
-#Challenges:
+# Challenges:
 *Adding css file   Ex:(syntax:<link rel="stylesheet" href="css file path.css">,
 *Using float property  Ex:(syntax-float:left;),
 *Finding the Parent and Children(Tip:go through the sample webpage and pen down  a diagram of parent and children),
