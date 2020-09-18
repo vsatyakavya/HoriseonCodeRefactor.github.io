@@ -21,7 +21,8 @@ semantic HTML elements,
 
 ![picture](horiseon.png)
 https://vsatyakavya.github.io/HoriseonCodeRefactor.github.io/.
-https://vsatyakavya.github.io/HoriseonCodeRefactor.github.io/.
+https://github.com/vsatyakavya/HoriseonCodeRefactor.github.io
+
 
 
 copyright 2020
