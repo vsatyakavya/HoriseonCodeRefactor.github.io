@@ -1,6 +1,6 @@
 
 # Application Does:
-Horiseon leads you to get a clear idea about Search Engine Optimization, Online Reputation Management and Social Media Marketing
+* Horiseon leads you to get a clear idea about Search Engine Optimization, Online Reputation Management and Social Media Marketing
 
 # Technologies used:
 * HTML, CSS
