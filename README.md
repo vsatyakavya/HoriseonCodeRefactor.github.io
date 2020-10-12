@@ -25,6 +25,8 @@
 # Github Repository
 https://github.com/vsatyakavya/HoriseonCodeRefactor.github.io
 
+# contact
+satyakavya24@gmail.com 
 
 
 copyright 2020
